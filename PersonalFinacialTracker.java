@@ -149,8 +149,6 @@ public class PersonalFinacialTracker {
         return accessGranted;
     }
 
-    
-
     static void addTransaction() {
         String date, type, category, note;
         double amount = 0.0;
