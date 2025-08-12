@@ -149,7 +149,7 @@ public class PersonalFinacialTracker {
         return accessGranted;
     }
 
-    // ... All other methods unchanged from your original code below
+    
 
     static void addTransaction() {
         String date, type, category, note;
